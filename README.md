@@ -1,4 +1,4 @@
-# Python GIF Generator
+# GIF using python 
 
 A simple Python project that generates an animated GIF.
 
